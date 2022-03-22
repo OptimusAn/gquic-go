@@ -1,4 +1,4 @@
-module github.com/OptimusAn/gquic-go
+module github.com/lucas-clemente/quic-go
 
 go 1.12
 
